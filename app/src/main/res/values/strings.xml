@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceDemo</string>
+    <string name="sleep">sleep</string>
+    <string name="receiver">receiver</string>
+    <string name="bundle_result">IntentBundleResult</string>
+    <string name="started_service_results">startedServiceResult</string>
+    <string name="et_two">two</string>
+    <string name="et_one">one</string>
+    <string name="data_back_to_activity">data_back_to_activity</string>
+</resources>
